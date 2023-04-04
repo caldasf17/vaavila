@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "vaavila",
+    "slug": "vaavila",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+    }
+}
